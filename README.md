@@ -2,7 +2,7 @@
 ❯ uwufetch
 ```
 
-<img align="left" src="https://api.dicebear.com/9.x/glass/svg?seed=9.9cty" alt="" width="230" />
+<img align="left" src="https://raw.githubusercontent.com/lyindyin999/lyindyin999/main/assets/red_profile_loop.gif" alt="" width="230" />
 
 ```csharp
 9.9cty@github
