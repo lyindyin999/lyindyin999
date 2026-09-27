@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/lyindyin999/lyindyin999/main/assets/profile/header.svg" alt="9.9cty — Design / Code / AI" />
+<img width="100%" src="https://raw.githubusercontent.com/lyindyin999/lyindyin999/main/assets/profile/header-white-blue.svg" alt="9.9cty — Design / Code / AI" />
 
 ```text
 ❯ uwufetch
