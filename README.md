@@ -2,7 +2,7 @@
 ❯ uwufetch
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/lyindyin999/lyindyin999/main/assets/red_profile_loop.gif" alt="" width="230" />
+<img align="left" src="https://media.giphy.com/media/xUPGcvCuJDFgKcNkbe/giphy.gif" alt="" width="230" />
 
 ```csharp
 9.9cty@github
