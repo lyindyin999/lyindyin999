@@ -36,7 +36,6 @@ AI           Automation   Creative Coding
 ```
 
 
-[![Contribution Signal](https://github-readme-activity-graph.vercel.app/graph?username=lyindyin999&bg_color=05070b&color=8fa8c8&title_color=f4f8ff&line=6aa8ff&point=ffffff&area=true&area_color=18355e&hide_border=true&grid=false&radius=8&days=31&custom_title=CONTRIBUTION%20SIGNAL)](https://github.com/lyindyin999)
 
 <div align="center">
 
