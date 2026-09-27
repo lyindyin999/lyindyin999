@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/lyindyin999/lyindyin999/main/assets/profile/header-white-blue.svg" alt="9.9cty — Design / Code / AI" />
+<img width="100%" src="https://raw.githubusercontent.com/lyindyin999/lyindyin999/main/assets/profile/header-white-blue.svg" alt="9.99cty — Design / Code / AI" />
 
 ```text
 ❯ uwufetch
@@ -7,7 +7,7 @@
 <img align="left" src="https://raw.githubusercontent.com/lyindyin999/orbita/main/assets/profile/redbull_loop_nopause.gif" alt="" width="230" />
 
 ```csharp
-9.9cty@github
+9.99cty@github
 -------------------------------------------------
 OWOS: macOS, Windows
 CODE EDIOWOR: VS Code, Cursor
